@@ -1,12 +1,12 @@
-Yusuf = (Oct 4 2013)
+Yusuf = 1042013
 
-Mohammad = (Jan 1 2014)
+Mohammad = 112014
 
-Ahmed = (Jun 18 2012)
+Ahmed = 4182012
 
-Salim = (Dec 25 2013)
+Salim = 12252013
 
-Ali = (Mar 6 2011)
+Ali = 362011
 
 print("yusuf's Birthday  is on" , Yusuf)
 print("mohammad's Birthday  is on" , Mohammad)
